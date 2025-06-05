@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+The quick brown fox was very quick.
+Python is fun, and learning Python is even more fun!
+Did you know that the quick brown fox loves Python?

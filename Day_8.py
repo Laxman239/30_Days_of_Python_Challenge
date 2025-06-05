@@ -1,3 +1,6 @@
+# Challenge Day 8
+# Create a Car class with attributes and a display method
+
 class Car:
     def __init__(self, brand_name, model_name):
         self.brand_name = brand_name

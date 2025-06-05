@@ -1,3 +1,6 @@
+# Challenge Day 6
+# Generate a random 8-character password
+
 import random
 import string
 

@@ -1,3 +1,6 @@
+# Challenge Day 4
+# Check if a user-entered number is prime
+
 # Prime Number Detective 🔎
 
 number = int(input("Enter a number to check if it's prime: "))

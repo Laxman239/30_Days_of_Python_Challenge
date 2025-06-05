@@ -1,3 +1,6 @@
+# Challenge Day 7
+# Count word frequencies in a text file
+
 # Opening the file
 with open('sample.txt', 'r') as file:
     text = file.read()

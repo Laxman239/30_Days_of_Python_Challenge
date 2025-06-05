@@ -1,4 +1,7 @@
-# Day 5: Cricket Batting Scores Tracker 🏏
+# Challenge Day 5
+# Write a function that computes the sum and average of a list of numbers
+
+# Cricket Batting Scores Tracker 🏏
 def calculate_sum_and_average(scores):
     total = sum(scores)
     average = total / len(scores)

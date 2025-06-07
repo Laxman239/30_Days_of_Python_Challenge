@@ -22,4 +22,4 @@ for word in words:
 
 # Printing the result
 for word, freq in word_freq.items():
-    print(f'{word}: {freq}')
+    print(f"{word}: {freq}")

@@ -20,4 +20,4 @@ else:
     if is_prime:
         print(f"{number} is a prime number! 🎉 Case closed.")
     else:
-        print(f"{number} is not a prime number. Better luck next time, detective.")
+        print(f'{number} is not a prime number. Better luck next time, detective.')

@@ -19,7 +19,7 @@ while True:
         score = int(entry)
         batting_scores.append(score)
     except ValueError:
-        print("Please enter a valid number.")
+        print('Please enter a valid number.')
         continue
 
 if len(batting_scores) == 0:

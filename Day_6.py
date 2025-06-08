@@ -4,7 +4,7 @@
 import random
 import string
 
-print("Do you need any password?")
+print('Do you need any password?')
 print("Type Yes or No")
 
 choice = input("Enter your choice: ").lower()

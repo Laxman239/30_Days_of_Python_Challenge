@@ -1,0 +1,11 @@
+example@gmail.com
+john.doe@gmail.com
+user123@gmail.com
+first_last@gmail.com
+user+promo@gmail.com
+example@yahoo.com
+example@gmail
+@gmail.com
+user@googlemail.com
+user@gmail.co.in
+user@GMAIL.com
